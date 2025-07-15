@@ -33,3 +33,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+""" Version: 1.0.0
+Creator: João Malfatti """
